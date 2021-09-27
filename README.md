@@ -2,7 +2,7 @@ Michael Martinez
 
 Tutorial - https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
 
-Link to IPO - https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
+Link to IPO - https://orange-wave-0086b0910.azurestaticapps.net/ipo
 
 ![IPO](https://user-images.githubusercontent.com/62119636/134439203-b6c0a6f1-6b29-49f5-9213-87f0df7dbbc2.PNG)
 
