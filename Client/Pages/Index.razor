@@ -4,4 +4,14 @@
 
 My name is Michael Martinez, and this is my Blazor project.
 
+<button class="btn btn-primary" @onclick="IncrementCount">Show Text</button>
+
+@code {
+
+    private void ShowText()
+    {
+        Testing text message.
+    }
+}
+
 <SurveyPrompt Title="How is Blazor working for you?" />
