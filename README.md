@@ -6,6 +6,10 @@ Link to IPO - https://orange-wave-0086b0910.azurestaticapps.net/ipo
 
 ![IPO](https://user-images.githubusercontent.com/62119636/134439203-b6c0a6f1-6b29-49f5-9213-87f0df7dbbc2.PNG)
 
+Link to Todo - https://orange-wave-0086b0910.azurestaticapps.net/todo
+
+![todo blazor project](https://user-images.githubusercontent.com/62119636/135932998-a7e2dcf6-b0c3-4e7d-b0cd-2f7ca5d3e38d.PNG)
+
 # Blazor Starter Application
 
 This template contains an example [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-3.1#blazor-webassembly) client application, a C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview) and a C# class library with shared code.
